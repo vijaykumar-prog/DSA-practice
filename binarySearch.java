@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class binary{
+public class binarySearch{
     public static void main(String a[]){
         Scanner sc = new Scanner(System.in);
         int nums[] = {40,35,32,25,20,15,10,9,3};
