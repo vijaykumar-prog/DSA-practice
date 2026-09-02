@@ -1,4 +1,4 @@
-
+package binarysearch;
 //TO FIND THE FIRST OCCURENCE OF THE ELEMENT USING BINARY SEARCH.
 import java.util.Scanner;
 

@@ -1,3 +1,6 @@
+package binarysearch;
+//BINARY SEARCH IN 2D ARRAY WHICH IS SORTED IN ROW AND COLUMN WISE.
+
 import java.util.Scanner;
 public class twoD {
     public static void main(String[] args){

@@ -1,3 +1,8 @@
+package binarysearch;
+// BINARY SEARCH IN 2D ARRAY WHICH IS SORTED IN EVERY ROW WISE.
+
+
+
 public class bsearch {
     public static void main(String[] arg){
         int nums[][] = { {1,2,3,4},
