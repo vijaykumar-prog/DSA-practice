@@ -1,9 +1,11 @@
-#Pattern1
+# Pattern 1
 
-##Output
+## Output
 
+```text
 *****
 *****
 *****
 *****
 *****
+```
